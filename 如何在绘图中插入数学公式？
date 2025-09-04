@@ -1,0 +1,24 @@
+在文本形状中使用 LaTeX 或 [AsciiMath](http://www.intmath.com/help/send-math-email-syntax.php) 输入数学方程式。
+
+* **AsciiMath** 放在 `` ` `` 之间，例如：`` `a^2+b^2 = c^2` ``
+* **LaTeX** 放在 `$$` 之间，例如：`$$\sqrt{3×-1}+(1+x)^2$$`
+* **行内 LaTeX** 放在 `\(` 和 `\)` 之间，例如：`\(\sqrt{3×-1}+(1+x)^2\)`
+
+你可以在同一段文本中混合使用行内 LaTeX 和 AsciiMath，例如：
+
+``LaTeX \(\sqrt{3×-1}+(1+x)^2\) 和 AsciiMath `a^b + b^2 = c^2` ``
+
+![刀刻数学公式](https://asset.dkluge.com/uploads/dkluge-forum-images/e6fed8b25c389278d9cf019753cd1148959e843f082a96eee6878f88b8fafe15.png)
+
+[在我们的在线编辑器中查看此示例](https://www.dkluge.com/draw?\&tags=%7B%7D\&lightbox=1\&highlight=0000ff\&edit=_blank\&layers=1\&nav=1\&title=zNdyl2AGbZ\&dark=auto#R%3Cmxfile%20compressed%3D%221%22%20dkid%3D%22zNdyl2AGbZ%22%3E%3Cdiagram%20id%3D%22C5RBs43oDa-KdzZeNtuy%22%20name%3D%22Page-1%22%3E7Zldc6M2FIZ%2FSy%2BYwRfsgDAQX8YkmzTd7XQnabN3OzLIRg0gRygO2V%2Ffow%2B%2BjO3GO03aTDPjjKWjoyMkPXp1cCw%2FLuoLjtfZZ5aS3EJuWlv%2BmYWQF0UhfEnLk7acRDNtWHGaGqfOcE2%2FE2N0jfWBpqQaOArGckHXxmj8ElaWJBEDR8w5exz2XbJ8OOoar8jIcJ3g3FjdD7POfktTkZl5oKizXxK6ypqxvdD0WODkbsXZQ2lGLFlJdEuBmzBm0CrDKXvsTcg%2Ft%2FyYMyZ0qahjksuFbdbs9uen2%2FzTXXhx9aW6x7%2FPf7n59Q9HL8XHY7q0k%2BakFD8c%2Buv9aRh%2FylM%2FXv65CZxLUYZrp1mgDc4fzGJaaAqf029WNC8sFJdWBFZXtYW4WFv%2B3EI%2B7Lz8dq0gXpAVBaf5GhaM01q573CEnZYhYS6xZ0J2bl0bGrfBGEnKRLWvS%2FOEQSw%2FB8ZGB8ZGx4%2BNnjk2tGzaGNvR97ekO8bd6vC3My4OzLg4fsYdDztJIHCIhhxM1UcdHvHUnFZBaqB4nokiB4MHxWqNE1quoBZ0tRsGI5w5Kv5jRgW5BrsM8QgiBja2IXyZqwOZ0TQlJdiWNM9jljMORnWSIZrg7I5sG5ujLIOr009SU4OogoK0nOZ0BSHPCoidk2eeQHNSZQxS98TDnMgLwgoi%2BBO4NK2NuBjlDY1SPnYihnykbVlfwFxjxEY6V23oTgKgYFTgGEU4GSnCJ3xDvuottuGvuucC9tm3Yt%2BaRY7ma27DROb1xArOEfhM5KMBDijM5V4vOJRWsnRaJZR%2BltIK8UIXg%2F9CoSYZWqjeRmzcRNXkiri0zGmjy2%2BdJH%2BOjSEBmAh%2FLbS82Q623HDMVvRiaM32XDaarSXHCXCVLiVQ8C16N49szynojyt1yM60hcuHVgkE1N1Jq8Um0tIWwFU2caAw0UGzY2Sp2aecLMWh%2FeSkot%2FxQgWS%2FdaMlkItXjC3gjMZ6UGwSqdN0qFgm547ZwKLXh2yM9Kvk5T2qzlL7lrGTEbVa34pnKbRgCZ0MqbJn7pjmprc7x%2BnyXcP0pRhKVKKJUAHdtDW9pr22Jn0%2BaoeCk0ZFZWkzIEaLZfiScU4b2vgLNmqJ0RawU8K3lqGpWq5mmF692S5qMw9mta77e9QHgWlodAPohGFU%2FSqFHp7KLz6BhTgfJ1hIOUQZoVatRFirYrZjidv1UILWPGTSfxQrAsXuCiwXbR3aDNqa%2FCM9LXHQBVN8Fq3qTxQnRRzLPTjqBzX3RH7Pbd7jmIG0YdgIJpRML6Bwx20htOXohWNaQ21ZCk8bcckY47cVsjzbJWSOVOcTADijzbCE6t54vdt373tYTjMuwJ%2FtOteo1v9XQ9mL7Xr%2FsGbckMSrQklKDZukyj5Fth3ONtKx3jGpHyRMmleIo%2B8wbie%2Bv%2F1CjOt%2FslWYuWPcUHBq15p0x%2FBRdCCVH2Pyy1etPWqgWU%2BuORkBoUBA5yPkGsur65d%2FGeA6wnWhlZU9XybFKIhhb47HSdW3qtSGOyn0KTw2QLzfRTtoSaIf6uoPcz75ZsCci91pWv%2B9%2Bl6kyBF%2FhCkcCxnvneyA6TwaJCg2v36rtp6%2F9%2Fwz%2F8C%3C%2Fdiagram%3E%3C%2Fmxfile%3E)
+
+## 启用数学排版
+
+从菜单中选择“设置 > 数学排版”。
+![刀刻数学排版设置](https://asset.dkluge.com/uploads/dkluge-forum-images/8e3ac2801ae258616c85ed9829c36dd5f2073179041080d423e40896cd8934b5.png)
+
+启用数学排版将使用 [MathJax 渲染数学方程式](https://www.mathjax.org/)。MathJax 能整齐地渲染方程式，并且在所有浏览器中都能正常工作。
+
+通过相同的菜单项禁用数学排版，即可查看和编辑方程式的 LaTeX 或 AsciiMath 代码。
+
+[原文地址](https://www.dkluge.com/ask/topic/slug/how-to-insert-mathematical-formulas-into-drawings)
