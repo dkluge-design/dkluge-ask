@@ -1,0 +1,18 @@
+## 1. 默认情况
+
+默认情况下深色模式和浅色模式切换 文本颜色与图形颜色也会自动切换，如下图：
+
+![刀刻浅色图形与深色图形对比](https://dkluge-files-v1.oss-cn-hangzhou.aliyuncs.com/uploads/dkluge-forum-images/1ff81fb4133389426b4d44113446b72d9d16668dc99836a644c855714217f1c9.png)
+
+## 2. 不自动切换颜色
+
+如果不需要自动切换，可以在 `设置->自适应颜色` 中选择 `无`，图形与文字颜色将不会自动切换。
+![刀刻图形颜色自适应设置](https://dkluge-files-v1.oss-cn-hangzhou.aliyuncs.com/uploads/dkluge-forum-images/cd767bf739cc3675f942c996328936cb86903a9c567a96054feed8608bcc2356.png)
+
+## 3. 分别设置浅色与深色对应的颜色
+
+用户可以在设置图形颜色的时候自定义 深色模式的颜色：
+![刀刻设置浅色与深色对应的颜色](https://dkluge-files-v1.oss-cn-hangzhou.aliyuncs.com/uploads/dkluge-forum-images/4500cc810b9bb0bd97cebd002dcb7518c860a03c1cc9e088a7c62474c8a05195.png)
+
+
+原文地址：https://www.dkluge.com/ask/topic/slug/how-to-auto-switch-graphic-colors-dark-light-modes
